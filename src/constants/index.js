@@ -94,55 +94,55 @@ export const brainwaveServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
+    title: "Speech detection",
+    text: "Allow the chatbot to comprehend and react to voice commands, providing users with a hands-free, seamless app interaction experience.",
+    date: "April 2024",
     status: "done",
     imageUrl: roadmap1,
     colorful: true,
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
+    title: "Game-based engagement",
+    text: "Incorporate game-like features, including badges and leaderboards, to motivate users to interact with the chatbot more often.",
+    date: "April 2024",
     status: "progress",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
+    title: "Personalized chatbot configuration",
+    text: "Give users the ability to personalize the chatbot's look and behavior, creating a more interactive and enjoyable experience.",
+    date: "April 2024",
     status: "done",
     imageUrl: roadmap3,
   },
   {
     id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
+    title: "API connectivity",
+    text: "Enable the chatbot to pull data from external sources like weather or news APIs, offering more tailored and timely recommendations.",
+    date: "April 2024",
     status: "progress",
     imageUrl: roadmap4,
   },
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Powered by intelligent automation and robust security, it's the ultimate solution for teams striving to enhance efficiency and productivity";
 
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
+    title: "Effortless Connectivity",
     text: collabText,
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Intelligent Automation",
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "Robust  Security",
   },
 ];
 
@@ -209,33 +209,35 @@ export const pricing = [
   {
     id: "0",
     title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    description: "Customized insights powered by an AI chatbot",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "An intelligent AI chatbot that comprehends your questions",
+      "Tailored recommendations aligned with your preferences",
+      "Explore the app's features completely free of charge",
     ],
   },
   {
     id: "1",
     title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
+    description:
+      "Advanced AI chatbot, dedicated support, and a comprehensive analytics suite",
+    price: "19.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "A sophisticated AI chatbot capable of interpreting complex inquiries",
+      "A comprehensive analytics dashboard to monitor your interactions",
+      "Fast-track support for quick resolution of any issues",
     ],
   },
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    description:
+      "Personalized AI chatbot, enhanced analytics, and exclusive account management",
     price: null,
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
+      "An AI chatbot designed to grasp your inquiries with precision.",
+      "Recommendations tailored specifically to your preferences",
       "Ability to explore the app and its features without any cost",
     ],
   },
@@ -261,7 +263,7 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Stay connected anywhere",
+    title: "Connect globally",
     text: "Engage with the AI chatbot anytime, from any device, ensuring maximum accessibility and convenience.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
