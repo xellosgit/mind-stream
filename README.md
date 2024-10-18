@@ -36,3 +36,14 @@
 2. Install dependencies using `npm install`.
 3. Start the development server using `npm run dev`.
 4. Navigate through different sections like Home and Contacts to experience the full functionality.
+![Screenshot 2024-10-18 192354](https://github.com/user-attachments/assets/af7cba3c-9868-46e6-8ae4-61875fbc8fae)
+![image](https://github.com/user-attachments/assets/14aa6c6c-ba48-410c-a9b3-0a96d2dd3ada)
+![image](https://github.com/user-attachments/assets/3da95f44-77ae-4a67-8122-7235d004d92e)
+![image](https://github.com/user-attachments/assets/83868ecc-b57f-479d-8dbe-6ce228105824)
+![image](https://github.com/user-attachments/assets/cd86ed1e-4c93-4561-beb0-e7cbfb2f5dd1)
+![image](https://github.com/user-attachments/assets/d491f4a9-0a6f-4cc9-9dd1-d72bdde7edbd)
+![image](https://github.com/user-attachments/assets/12edec49-a25c-4592-83e4-f8286ce8994f)
+![image](https://github.com/user-attachments/assets/c8381081-401f-44ed-ac3f-4640c4970f51)
+![image](https://github.com/user-attachments/assets/d5942f78-8dcf-4f75-a5f3-5e6d1888d9e0)
+![image](https://github.com/user-attachments/assets/0deb0bcf-294e-4824-b8e9-39adf67f3541)
+
