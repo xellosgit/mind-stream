@@ -30,12 +30,6 @@
 - **Assets**: Includes images, SVG files, and other static resources.
 - **Constants**: Centralized data (e.g., navigation links) to improve maintainability.
 
-## Getting Started
-
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Start the development server using `npm run dev`.
-4. Navigate through different sections like Home and Contacts to experience the full functionality.
 ![Screenshot 2024-10-18 192354](https://github.com/user-attachments/assets/af7cba3c-9868-46e6-8ae4-61875fbc8fae)
 ![image](https://github.com/user-attachments/assets/14aa6c6c-ba48-410c-a9b3-0a96d2dd3ada)
 ![image](https://github.com/user-attachments/assets/3da95f44-77ae-4a67-8122-7235d004d92e)
